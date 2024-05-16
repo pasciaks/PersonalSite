@@ -1,3 +1,28 @@
 body {
     font-family: 'Courier New', Courier, monospace;
 }
+
+a {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding:5px;
+    margin:5px;
+    width: 200px;
+}
+
+a:hover {
+    color: #0008ff;
+    background-color: rgb(54, 47, 177);
+    box-shadow: 10px 1rgb(127, 133, 255)88888;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    list-style: none;
+}
